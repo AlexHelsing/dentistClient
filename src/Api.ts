@@ -1,3 +1,5 @@
-const API = import.meta.env.VITE_API_URL || 'http://localhost:3000'
+import axios from 'axios';
 
-export default API;
+export const API = axios.create({
+    baseURL: import.meta.env.VITE_API_URL || 'http://localhost:3000/api/v1'
+})
