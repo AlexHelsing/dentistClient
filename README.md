@@ -10,7 +10,7 @@ This serves as the user interface for a dental appointment booking system. Admin
 
 |             Dentist login              |              Admin login               |
 | :------------------------------------: | :------------------------------------: |
-| ![image](/src/assets/dentistLogin.png) | ![image](/src/assets/dentistLogin.png) |
+| ![image](/src/assets/dentistLogin.png) | ![image](/src/assets/adminlogin.png) |
 
 |             Apponintment Page             |             Clinic page              |
 | :---------------------------------------: | :----------------------------------: |
