@@ -6,7 +6,7 @@ import Clinic from '../views/Clinic.vue'
 
 const routes = [
   {
-    path: '/login',
+    path: '/',
     name: 'Login',
     component: Login,
   },
